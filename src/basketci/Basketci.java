@@ -1,6 +1,6 @@
 //-------------------
 //  Zeki ÇIPLAK 
-//  gitub.com/zkcplk
+//  github.com/zkcplk
 //-------------------
 package basketci;
 
