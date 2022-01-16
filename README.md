@@ -2,7 +2,7 @@
 Java ile yazılan eğitim amaçlı basit basketbol oyunudur. 
 Basketçi 2022 nasıl oynanır?
  
-##  Oyun Öncesi
+###  Oyun Öncesi
 Oyun başlamadan önce skor tablosuna eklenmesi amacıyla oyuncu ismi girmeniz beklenir.
 Oyun başladıktan sonra, klavyedeki herhangi bir tuşla topu fırlatabilirsiniz. (Space tuşu önerilir)
 
