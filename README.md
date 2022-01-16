@@ -7,8 +7,9 @@ Oyun başlamadan önce skor tablosuna eklenmesi amacıyla oyuncu ismi girmeniz b
 Oyun başladıktan sonra, klavyedeki herhangi bir tuşla topu fırlatabilirsiniz. (Space tuşu önerilir)
 
 ### Oyun Süresi
-Oyunun belirlenmiş bir süresi vardır. (Test için 90 saniye olarak ayarlandı)
-Belirlenen sürede maksimum basket yaparak, puanın arttırılması hedeflenir.
+Oyunun belirlenmiş bir süresi vardır. 
+Belirlenen sürede maksimum basket yaparak, puanın arttırılması hedeflenir. 
+Test için 90 saniye olarak ayarlanmıştır. 
 
 ### Puanlama
 Her basket için 10 puan kazanılır.
