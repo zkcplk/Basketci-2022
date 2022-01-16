@@ -1,7 +1,7 @@
 # Basketci 2022 (Java Game)
- Java ile yazılan eğitim amaçlı basit basketbol oyunu...
+Java ile yazılan eğitim amaçlı basit basketbol oyunudur. 
+Basketçi 2022 nasıl oynanır?
  
-# BASKETÇİ 2022 OYUNU NASIL OYNANIR?
 ##  Oyun Öncesi
 Oyun başlamadan önce skor tablosuna eklenmesi amacıyla oyuncu ismi girmeniz beklenir.
 Oyun başladıktan sonra, klavyedeki herhangi bir tuşla topu fırlatabilirsiniz. (Space tuşu önerilir)
