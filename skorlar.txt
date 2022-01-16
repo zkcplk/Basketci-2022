@@ -1,0 +1,10 @@
+227 TEST
+93 Marmara
+87 Teknoloji Fak.
+84 Zeki ÇIPLAK
+74 Bilgisayar Müh.
+41 QWERTY
+37 player1
+20 Basketçi
+13 userX
+10 istanbul
